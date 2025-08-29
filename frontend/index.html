@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Dope Checker - WADA Compliance Tool</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-shield-alt"></i>
+                    <h1>AI Dope Checker</h1>
+                </div>
+                <p class="tagline">Check your medicines against WADA prohibited substances</p>
+            </div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="navigation">
+            <div class="nav-container">
+                <button class="nav-btn active" id="checkerTab">
+                    <i class="fas fa-search"></i>
+                    Medicine Checker
+                </button>
+                <button class="nav-btn" id="cabinetTab">
+                    <i class="fas fa-pills"></i>
+                    My Medicine Cabinet
+                    <span class="cabinet-count" id="cabinetCount">0</span>
+                </button>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Search Section -->
+            <section class="search-section" id="checkerSection">
+                <div class="search-container">
+                    <h2>Enter Medicine Name</h2>
+                    <div class="input-group">
+                        <div class="input-wrapper">
+                            <i class="fas fa-pills input-icon"></i>
+                            <input 
+                                type="text" 
+                                id="medicineInput" 
+                                placeholder="e.g., Aspirin, Ibuprofen, Testosterone..."
+                                autocomplete="off"
+                            >
+                            <button id="clearBtn" class="clear-btn" type="button">
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                        <button id="checkBtn" class="check-btn">
+                            <i class="fas fa-search"></i>
+                            Check Medicine
+                        </button>
+                    </div>
+                    <div class="suggestions" id="suggestions"></div>
+                </div>
+            </section>
+
+            <!-- Loading Section -->
+            <section class="loading-section" id="loadingSection">
+                <div class="loading-spinner">
+                    <div class="spinner"></div>
+                    <p>Analyzing medicine against WADA database...</p>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section class="results-section" id="resultsSection">
+                <div class="result-card">
+                    <div class="result-header">
+                        <div class="status-indicator" id="statusIndicator">
+                            <i class="fas fa-check-circle"></i>
+                        </div>
+                        <div class="result-title">
+                            <h3 id="resultTitle">Analysis Complete</h3>
+                            <p class="medicine-name" id="analyzedMedicine"></p>
+                        </div>
+                    </div>
+                    
+                    <div class="result-content">
+                        <div class="compliance-status" id="complianceStatus">
+                            <div class="status-badge" id="statusBadge">
+                                <span id="statusText">COMPLIANT</span>
+                            </div>
+                            <p id="statusDescription">This medicine is safe for athletes and contains no WADA prohibited substances.</p>
+                        </div>
+
+                        <div class="details-section" id="detailsSection">
+                            <h4><i class="fas fa-info-circle"></i> Detailed Analysis</h4>
+                            <div class="details-content" id="detailsContent">
+                                <!-- Dynamic content will be inserted here -->
+                            </div>
+                        </div>
+
+                        <div class="ingredients-section" id="ingredientsSection">
+                            <h4><i class="fas fa-list"></i> Key Ingredients Analyzed</h4>
+                            <div class="ingredients-list" id="ingredientsList">
+                                <!-- Dynamic content will be inserted here -->
+                            </div>
+                        </div>
+
+                        <div class="action-buttons">
+                            <button class="btn-secondary" id="addToCabinetBtn">
+                                <i class="fas fa-plus"></i>
+                                Add to Cabinet
+                            </button>
+                            <button class="btn-primary" id="checkAnotherBtn">
+                                <i class="fas fa-search"></i>
+                                Check Another
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Medicine Cabinet Section -->
+            <section class="cabinet-section" id="cabinetSection">
+                <div class="cabinet-header">
+                    <div class="cabinet-title">
+                        <h2><i class="fas fa-pills"></i> My Medicine Cabinet</h2>
+                        <p class="cabinet-subtitle">Track your checked medicines and their WADA status</p>
+                    </div>
+                    <div class="cabinet-actions">
+                        <button class="btn-outline" id="clearCabinetBtn">
+                            <i class="fas fa-trash"></i>
+                            Clear All
+                        </button>
+                        <button class="btn-outline" id="exportCabinetBtn">
+                            <i class="fas fa-download"></i>
+                            Export
+                        </button>
+                    </div>
+                </div>
+
+                <div class="cabinet-stats">
+                    <div class="stat-card safe">
+                        <div class="stat-icon">
+                            <i class="fas fa-check-circle"></i>
+                        </div>
+                        <div class="stat-info">
+                            <h3 id="safeCount">0</h3>
+                            <p>Safe Medicines</p>
+                        </div>
+                    </div>
+                    <div class="stat-card warning">
+                        <div class="stat-icon">
+                            <i class="fas fa-exclamation-triangle"></i>
+                        </div>
+                        <div class="stat-info">
+                            <h3 id="warningCount">0</h3>
+                            <p>Restricted</p>
+                        </div>
+                    </div>
+                    <div class="stat-card danger">
+                        <div class="stat-icon">
+                            <i class="fas fa-times-circle"></i>
+                        </div>
+                        <div class="stat-info">
+                            <h3 id="dangerCount">0</h3>
+                            <p>Prohibited</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="cabinet-filters">
+                    <div class="filter-tabs">
+                        <button class="filter-tab active" data-filter="all">All Medicines</button>
+                        <button class="filter-tab" data-filter="safe">Safe Only</button>
+                        <button class="filter-tab" data-filter="warning">Restricted</button>
+                        <button class="filter-tab" data-filter="danger">Prohibited</button>
+                    </div>
+                    <div class="search-filter">
+                        <input type="text" id="cabinetSearch" placeholder="Search your medicines...">
+                        <div class="search-icons">
+                            <i class="fas fa-search search-icon"></i>
+                            <i class="fas fa-times search-clear" id="searchClear"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="cabinet-content">
+                    <div class="empty-cabinet" id="emptyCabinet">
+                        <div class="empty-icon">
+                            <i class="fas fa-pills"></i>
+                        </div>
+                        <h3>Your Medicine Cabinet is Empty</h3>
+                        <p>Start by checking medicines and adding them to your personal cabinet for easy tracking.</p>
+                        <button class="btn-primary" id="startCheckingBtn">
+                            <i class="fas fa-search"></i>
+                            Start Checking Medicines
+                        </button>
+                    </div>
+
+                    <div class="medicine-grid" id="medicineGrid">
+                        <!-- Medicine cards will be dynamically inserted here -->
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2025 AI Dope Checker. Powered by PKS.</p>
+                <div class="footer-links">
+                    <a href="#" class="footer-link">
+                        <i class="fas fa-external-link-alt"></i>
+                        WADA Official
+                    </a>
+                    <a href="#" class="footer-link">
+                        <i class="fas fa-question-circle"></i>
+                        Help
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Error Modal -->
+    <div class="modal" id="errorModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i class="fas fa-exclamation-circle"></i> Error</h3>
+                <button class="modal-close" id="modalClose">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p id="errorMessage">An error occurred while processing your request.</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-secondary" id="modalOk">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

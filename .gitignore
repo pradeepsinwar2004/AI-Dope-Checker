@@ -1,0 +1,79 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables - NEVER COMMIT THESE!
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+**/.env
+**/env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+application.log
+combined.log
+error.log
+exceptions.log
+rejections.log
+
+# Development and testing files
+**/test*
+**/debug*
+**/*test*
+**/*debug*
+scripts/test*.js
+scripts/debug*.js
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/

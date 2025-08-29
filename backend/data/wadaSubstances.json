@@ -1,0 +1,5352 @@
+[
+  {
+    "name": "BPC-157",
+    "category": "Other",
+    "subcategory": "S0 Non-approved substances",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use).",
+    "wadaCode": "S0"
+  },
+  {
+    "name": "2,4-dinitrophenol",
+    "category": "Other",
+    "subcategory": "S0 Non-approved substances",
+    "alternativeNames": [
+      "DNP"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use).",
+    "wadaCode": "S0"
+  },
+  {
+    "name": "S-107",
+    "category": "Other",
+    "subcategory": "S0 Non-approved substances",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use).",
+    "wadaCode": "S0"
+  },
+  {
+    "name": "S48168",
+    "category": "Other",
+    "subcategory": "S0 Non-approved substances",
+    "alternativeNames": [
+      "ARM210"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use).",
+    "wadaCode": "S0"
+  },
+  {
+    "name": "reldesemtiv",
+    "category": "Other",
+    "subcategory": "S0 Non-approved substances",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use).",
+    "wadaCode": "S0"
+  },
+  {
+    "name": "tirasemtiv",
+    "category": "Other",
+    "subcategory": "S0 Non-approved substances",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use).",
+    "wadaCode": "S0"
+  },
+  {
+    "name": "1-Androstenediol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "5ɑ-androst-1-ene-3ß, 17ß-diol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "1-Androstenedione",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "5ɑ-androst-1-ene-3, 17-dione"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "1-Androsterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "3ɑ-hydroxy-5a-androst-1-ene-17-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "1-Epiandrosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "3ß-hydroxy-5ɑ-androst1-ene-17-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "1-Testosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-hydroxy-5ɑ-androst-1-en-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "4-Androstenediol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "androst-4-ene-3ß, 17ß-diol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "4-Hydroxytestosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "4,17ß-dihydroxyandrost-4-en-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "5-Androstenedione",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "androst-5-ene-3,17-dione"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "7ɑ-Hydroxy-DHEA",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "7ß-Hydroxy-DHEA",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "7-Keto-DHEA",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "11ß-Methyl-19-nortestosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "17ɑ-Methylepithiostanol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "epistane"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "19-Norandrostenediol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "estr-4-ene-3,17-diol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "19-Norandrostenedione",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "estr-4-ene-3,17-dione"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Androst-4-ene-3,11,17- trione",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "11-ketoandrostenedione",
+      "adrenosterone"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Androstanolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "5ɑ-dihydrotestosterone",
+      "17ß-hydroxy-5ɑ-androstan-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Androstenediol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "androst-5-ene-3ß,17ß-diol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Androstenedione",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "androst-4-ene-3,17-dione"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Bolasterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Boldenone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Boldione",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "androsta-1,4-diene-3,17-dione"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Calusterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Clostebol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Danazol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "[1,2]oxazolo[4’,5’:2,3]pregna-4-en-20-yn-17ɑ-ol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Dehydrochlormethyltestosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "4-chloro-17ß-hydroxy-17ɑ-methylandrosta-1,4-dien-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Desoxymethyltestosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ɑ-methyl-5ɑ-androst-2-en-17ß-ol and 17ɑ-methyl-5ɑ-androst-3-en-17ß-ol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Dimethandrolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "7ɑ,11ß-Dimethyl-19-nortestosterone"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Drostanolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Epiandrosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "3ß-hydroxy-5ɑ-androstan-17-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Epi-dihydrotestosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-hydroxy-5ß-androstan-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Epitestosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Ethylestrenol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "19-norpregna-4-en-17ɑ-ol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Fluoxymesterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Formebolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Furazabol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ɑ-methyl [1,2,5] oxadiazolo[3’,4’:2,3]-5ɑ-androstan-17ß-ol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Gestrinone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Mestanolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Mesterolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Metandienone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-hydroxy-17ɑ-methylandrosta-1,4-dien-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Metenolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Methandriol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Methasterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-hydroxy-2ɑ,17ɑ-dimethyl-5ɑ-androstan-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Methyl-1-testosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-hydroxy-17ɑ-methyl-5ɑ-androst-1-en-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Methylclostebol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Methyldienolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-hydroxy-17ɑ-methylestra-4,9-dien-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Methylnortestosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-hydroxy-17ɑ-methylestr-4-en-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Methyltestosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Metribolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "methyltrienolone",
+      "17ß-hydroxy-17ɑ-methylestra-4,9,11-trien-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Mibolerone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Nandrolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "19-nortestosterone"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Norboletone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Norclostebol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "4-chloro-17ß-ol-estr-4-en-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Norethandrolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Oxabolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Oxandrolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Oxymesterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Oxymetholone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Prasterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "dehydroepiandrosterone",
+      "DHEA",
+      "3ß-hydroxyandrost-5-en-17-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Prostanozol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-[(tetrahydropyran-2-yl)oxy]-1’H-pyrazolo[3,4:2,3]-5ɑ-androstane"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Quinbolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Stanozolol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Stenbolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Testosterone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Tetrahydrogestrinone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17-hydroxy-18a-homo-19-nor-17ɑ-pregna-4,9,11-trien-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Tibolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Trenbolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "17ß-hydroxyestr-4,9,11-trien-3-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Trestolone",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.1 Anabolic Androgenic Steroids (AAS)",
+    "alternativeNames": [
+      "7ɑ-Methyl-19-nortestosterone",
+      "MENT"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "Clenbuterol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "osilodrostat",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "ractopamine",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "andarine",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1",
+    "description": "A Selective Androgen Receptor Modulator (SARM)."
+  },
+  {
+    "name": "enobosarm",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [
+      "ostarine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1",
+    "description": "A Selective Androgen Receptor Modulator (SARM)."
+  },
+  {
+    "name": "LGD-4033",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [
+      "ligandrol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1",
+    "description": "A Selective Androgen Receptor Modulator (SARM)."
+  },
+  {
+    "name": "RAD140",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1",
+    "description": "A Selective Androgen Receptor Modulator (SARM)."
+  },
+  {
+    "name": "S-23",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1",
+    "description": "A Selective Androgen Receptor Modulator (SARM)."
+  },
+  {
+    "name": "YK-11",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1",
+    "description": "A Selective Androgen Receptor Modulator (SARM)."
+  },
+  {
+    "name": "zeranol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "zilpaterol",
+    "category": "Anabolic Agents",
+    "subcategory": "S1.2 Other Anabolic Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S1"
+  },
+  {
+    "name": "darbepoetins",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.1 Erythropoietin receptor agonists",
+    "alternativeNames": [
+      "dEPO"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "erythropoietins",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.1 Erythropoietin receptor agonists",
+    "alternativeNames": [
+      "EPO"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "EPO-Fc",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.1 Erythropoietin receptor agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "An EPO-based construct."
+  },
+  {
+    "name": "methoxy polyethylene glycol-epoetin beta",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.1 Erythropoietin receptor agonists",
+    "alternativeNames": [
+      "CERA"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "An EPO-based construct."
+  },
+  {
+    "name": "CNTO-530",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.1 Erythropoietin receptor agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "An EPO-mimetic agent or construct."
+  },
+  {
+    "name": "peginesatide",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.1 Erythropoietin receptor agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "An EPO-mimetic agent or construct."
+  },
+  {
+    "name": "cobalt",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.2 Hypoxia-inducible factor (HIF) activating agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "daprodustat",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.2 Hypoxia-inducible factor (HIF) activating agents",
+    "alternativeNames": [
+      "GSK1278863"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "IOX2",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.2 Hypoxia-inducible factor (HIF) activating agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "molidustat",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.2 Hypoxia-inducible factor (HIF) activating agents",
+    "alternativeNames": [
+      "BAY 85-3934"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "roxadustat",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.2 Hypoxia-inducible factor (HIF) activating agents",
+    "alternativeNames": [
+      "FG-4592"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "vadadustat",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.2 Hypoxia-inducible factor (HIF) activating agents",
+    "alternativeNames": [
+      "AKB-6548"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "xenon",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.2 Hypoxia-inducible factor (HIF) activating agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "K-11706",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.3 GATA inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "luspatercept",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.4 Transforming growth factor beta (TGF-β) signalling inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "sotatercept",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.4 Transforming growth factor beta (TGF-β) signalling inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "asialo EPO",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.5 Innate repair receptor agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "carbamylated EPO",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.1.5 Innate repair receptor agonists",
+    "alternativeNames": [
+      "CEPO"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+
+  {
+    "name": "chorionic gonadotrophin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [
+      "CG"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "luteinizing hormone",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [
+      "LH"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "Gonadotrophin-releasing hormone",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [
+      "GnRH",
+      "gonadorelin"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "buserelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Gonadotrophin-releasing hormone (GnRH) agonist analogue."
+  },
+  {
+    "name": "deslorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Gonadotrophin-releasing hormone (GnRH) agonist analogue."
+  },
+  {
+    "name": "goserelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Gonadotrophin-releasing hormone (GnRH) agonist analogue."
+  },
+  {
+    "name": "histrelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Gonadotrophin-releasing hormone (GnRH) agonist analogue."
+  },
+  {
+    "name": "leuprorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Gonadotrophin-releasing hormone (GnRH) agonist analogue."
+  },
+  {
+    "name": "nafarelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Gonadotrophin-releasing hormone (GnRH) agonist analogue."
+  },
+  {
+    "name": "triptorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Gonadotrophin-releasing hormone (GnRH) agonist analogue."
+  },
+  {
+    "name": "kisspeptin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.1 Testosterone-stimulating peptides in males",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "corticorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.2 Corticotrophins and their releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "tetracosactide",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.2 Corticotrophins and their releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "Growth hormone",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.3 Growth hormone (GH), its analogues and fragments",
+    "alternativeNames": [
+      "GH"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "lonapegsomatropin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.3 Growth hormone (GH), its analogues and fragments",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Growth hormone (GH) analogue."
+  },
+  {
+    "name": "somapacitan",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.3 Growth hormone (GH), its analogues and fragments",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Growth hormone (GH) analogue."
+  },
+  {
+    "name": "somatrogon",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.3 Growth hormone (GH), its analogues and fragments",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Growth hormone (GH) analogue."
+  },
+  {
+    "name": "AOD-9604",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.3 Growth hormone (GH), its analogues and fragments",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Growth hormone (GH) fragment."
+  },
+  {
+    "name": "hGH 176-191",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.3 Growth hormone (GH), its analogues and fragments",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A Growth hormone (GH) fragment."
+  },
+  {
+    "name": "growth hormone-releasing hormone",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [
+      "GHRH"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "CJC-1293",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHRH analogue."
+  },
+  {
+    "name": "CJC-1295",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHRH analogue."
+  },
+  {
+    "name": "sermorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHRH analogue."
+  },
+  {
+    "name": "tesamorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHRH analogue."
+  },
+  {
+    "name": "growth hormone secretagogues",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [
+      "GHS"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "anamorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHS mimetic."
+  },
+  {
+    "name": "capromorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHS mimetic."
+  },
+  {
+    "name": "ibutamoren",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [
+      "MK-677"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHS mimetic."
+  },
+  {
+    "name": "ipamorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHS mimetic."
+  },
+  {
+    "name": "lenomorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [
+      "ghrelin"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHS mimetic."
+  },
+  {
+    "name": "macimorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHS mimetic."
+  },
+  {
+    "name": "tabimorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GHS mimetic."
+  },
+  {
+    "name": "GH-releasing peptides",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [
+      "GHRPs"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "alexamorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GH-releasing peptide (GHRP)."
+  },
+  {
+    "name": "examorelin",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [
+      "hexarelin"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GH-releasing peptide (GHRP)."
+  },
+  {
+    "name": "GHRP-1",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GH-releasing peptide (GHRP)."
+  },
+  {
+    "name": "GHRP-2",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [
+      "pralmorelin"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GH-releasing peptide (GHRP)."
+  },
+  {
+    "name": "GHRP-3",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GH-releasing peptide (GHRP)."
+  },
+  {
+    "name": "GHRP-4",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GH-releasing peptide (GHRP)."
+  },
+  {
+    "name": "GHRP-5",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GH-releasing peptide (GHRP)."
+  },
+  {
+    "name": "GHRP-6",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.2.4 Growth hormone releasing factors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A GH-releasing peptide (GHRP)."
+  },
+  {
+    "name": "Fibroblast growth factors",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.3 Growth Factors and Growth Factor Modulators",
+    "alternativeNames": [
+      "FGFs"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "Hepatocyte growth factor",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.3 Growth Factors and Growth Factor Modulators",
+    "alternativeNames": [
+      "HGF"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "Insulin-like growth factor 1",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.3 Growth Factors and Growth Factor Modulators",
+    "alternativeNames": [
+      "IGF-1",
+      "mecasermin"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "Mechano growth factors",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.3 Growth Factors and Growth Factor Modulators",
+    "alternativeNames": [
+      "MGFs"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "Platelet-derived growth factor",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.3 Growth Factors and Growth Factor Modulators",
+    "alternativeNames": [
+      "PDGF"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "Thymosin-ß4",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.3 Growth Factors and Growth Factor Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+  {
+    "name": "TB-500",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.3 Growth Factors and Growth Factor Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2",
+    "description": "A derivative of Thymosin-ß4."
+  },
+  {
+    "name": "Vascular endothelial growth factor",
+    "category": "Peptide Hormones",
+    "subcategory": "S2.3 Growth Factors and Growth Factor Modulators",
+    "alternativeNames": [
+      "VEGF"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S2"
+  },
+
+  {
+    "name": "Arformoterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Fenoterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Formoterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Inhaled formoterol is permitted subject to a maximum delivered dose of 54 micrograms over 24 hours. Doses must not exceed 36 micrograms over 12 hours starting from any dose.",
+    "thresholdLimits": {
+      "hasThreshold": true,
+      "urineThreshold": {
+        "value": 40,
+        "unit": "ng/mL",
+        "description": "Presence in urine in excess of 40 ng/mL is not consistent with therapeutic use and will be considered an Adverse Analytical Finding (AAF)."
+      }
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Higenamine",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Indacaterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Levosalbutamol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Olodaterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Procaterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Reproterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Salbutamol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Inhaled salbutamol is permitted subject to a maximum of 1600 micrograms over 24 hours in divided doses, not to exceed 600 micrograms over 8 hours starting from any dose.",
+    "thresholdLimits": {
+      "hasThreshold": true,
+      "urineThreshold": {
+        "value": 1000,
+        "unit": "ng/mL",
+        "description": "Presence in urine in excess of 1000 ng/mL is not consistent with therapeutic use and will be considered an Adverse Analytical Finding (AAF)."
+      }
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Salmeterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Terbutaline",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Trequinol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [
+      "trimetoquinol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Tulobuterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "Vilanterol",
+    "category": "Beta-2 Agonists",
+    "subcategory": "S3 Beta-2 Agonists",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Inhaled vilanterol is permitted subject to a maximum of 25 micrograms over 24 hours.",
+    "thresholdLimits": {
+      "hasThreshold": true
+    },
+    "wadaCode": "S3"
+  },
+  {
+    "name": "2-Androstenol",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [
+      "5α-androst-2-en-17-ol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "2-Androstenone",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [
+      "5α-androst-2-en-17-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "3-Androstenol",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [
+      "5α-androst-3-en-17-ol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "3-Androstenone",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [
+      "5α-androst-3-en-17-one"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "4-Androstene-3,6,17 trione",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [
+      "6-oxo"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Aminoglutethimide",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Anastrozole",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Androsta-1,4,6-triene-3,17-dione",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [
+      "androstatrienedione"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Androsta-3,5-diene-7,17-dione",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [
+      "arimistane"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Exemestane",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Formestane",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Letrozole",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Testolactone",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.1 Aromatase Inhibitors",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Bazedoxifene",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Clomifene",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Cyclofenil",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Elacestrant",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Fulvestrant",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Ospemifene",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Raloxifene",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Tamoxifen",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Toremifene",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.2 Anti-estrogenic substances (SERMs)",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Activin A-neutralizing antibodies",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "ACE-031",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A decoy activin receptor, which is an Activin receptor IIB competitor."
+  },
+  {
+    "name": "bimagrumab",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "An anti-activin receptor IIB antibody."
+  },
+  {
+    "name": "follistatin",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A myostatin-binding protein (Myostatin inhibitor)."
+  },
+  {
+    "name": "myostatin propeptide",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A myostatin-binding protein (Myostatin inhibitor)."
+  },
+  {
+    "name": "apitegromab",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A myostatin- or precursor-neutralizing antibody (Myostatin inhibitor)."
+  },
+  {
+    "name": "domagrozumab",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A myostatin- or precursor-neutralizing antibody (Myostatin inhibitor)."
+  },
+  {
+    "name": "landogrozumab",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A myostatin- or precursor-neutralizing antibody (Myostatin inhibitor)."
+  },
+  {
+    "name": "stamulumab",
+    "category": "Hormone Antagonists",
+    "subcategory": "S4.3 Agents preventing activin receptor IIB activation",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A myostatin- or precursor-neutralizing antibody (Myostatin inhibitor)."
+  },
+  {
+    "name": "AICAR",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "An activator of the AMP-activated protein kinase (AMPK)."
+  },
+  {
+    "name": "mitochondrial open reading frame of the 12S rRNA-c",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [
+      "MOTS-c"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "An activator of the AMP-activated protein kinase (AMPK)."
+  },
+  {
+    "name": "2-(2-methyl-4-((4-methyl-2-(4-(trifluoromethyl)phenyl)thiazol-5-yl)methylthio)phenoxy) acetic acid",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [
+      "GW1516",
+      "GW501516"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A Peroxisome proliferator-activated receptor delta (PPARδ) agonist."
+  },
+  {
+    "name": "SR9009",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A Rev-erbα agonist."
+  },
+  {
+    "name": "SR9011",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "A Rev-erbα agonist."
+  },
+  {
+    "name": "Insulins and insulin-mimetics",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+    {
+    "name": "S519",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "An insulin-mimetic."
+  },
+  {
+    "name": "S597",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4",
+    "description": "An insulin-mimetic."
+  },
+  {
+    "name": "Meldonium",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Trimetazidine",
+    "category": "Other",
+    "subcategory": "S4.4 Metabolic Modulators",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S4"
+  },
+  {
+    "name": "Acetazolamide",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "amiloride",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "bumetanide",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "canrenone",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "chlortalidone",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "etacrynic acid",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "furosemide",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "indapamide",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "metolazone",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "spironolactone",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "thiazides",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5",
+    "description": "Includes, for example, bendroflumethiazide, chlorothiazide and hydrochlorothiazide."
+  },
+  {
+    "name": "torasemide",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "triamterene",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "xipamide",
+    "category": "Diuretics",
+    "subcategory": "S5 Diuretics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "conivaptan",
+    "category": "Diuretics",
+    "subcategory": "S5 Vaptans",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "mozavaptan",
+    "category": "Diuretics",
+    "subcategory": "S5 Vaptans",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "tolvaptan",
+    "category": "Diuretics",
+    "subcategory": "S5 Vaptans",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "albumin",
+    "category": "Masking Agents",
+    "subcategory": "S5 Plasma expanders",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5",
+    "description": "Prohibited by intravenous administration."
+  },
+  {
+    "name": "dextran",
+    "category": "Masking Agents",
+    "subcategory": "S5 Plasma expanders",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5",
+    "description": "Prohibited by intravenous administration."
+  },
+  {
+    "name": "hydroxyethyl starch",
+    "category": "Masking Agents",
+    "subcategory": "S5 Plasma expanders",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5",
+    "description": "Prohibited by intravenous administration."
+  },
+  {
+    "name": "mannitol",
+    "category": "Masking Agents",
+    "subcategory": "S5 Plasma expanders",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5",
+    "description": "Prohibited by intravenous administration."
+  },
+  {
+    "name": "Desmopressin",
+    "category": "Masking Agents",
+    "subcategory": "S5 Other Masking Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "Probenecid",
+    "category": "Masking Agents",
+    "subcategory": "S5 Other Masking Agents",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "wadaCode": "S5"
+  },
+  {
+    "name": "Drospirenone",
+    "category": "Diuretics",
+    "subcategory": "S5 Exceptions",
+    "alternativeNames": [],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "This substance is not prohibited.",
+    "wadaCode": "S5"
+  },
+  {
+    "name": "pamabrom",
+    "category": "Diuretics",
+    "subcategory": "S5 Exceptions",
+    "alternativeNames": [],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "This substance is not prohibited.",
+    "wadaCode": "S5"
+  },
+  {
+    "name": "dorzolamide",
+    "category": "Diuretics",
+    "subcategory": "S5 Exceptions",
+    "alternativeNames": [],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "A carbonic anhydrase inhibitor that is not prohibited when administered by topical ophthalmic route.",
+    "wadaCode": "S5"
+  },
+  {
+    "name": "brinzolamide",
+    "category": "Diuretics",
+    "subcategory": "S5 Exceptions",
+    "alternativeNames": [],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "A carbonic anhydrase inhibitor that is not prohibited when administered by topical ophthalmic route.",
+    "wadaCode": "S5"
+  },
+  {
+    "name": "felypressin",
+    "category": "Masking Agents",
+    "subcategory": "S5 Exceptions",
+    "alternativeNames": [],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": []
+    },
+    "description": "Not prohibited when used via local administration in dental anaesthesia.",
+    "wadaCode": "S5"
+  },
+  {
+    "name": "Adrafinil",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Amfepramone",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Amfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Amfetaminil",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Amiphenazole",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Benfluorex",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Benzylpiperazine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Bromantan",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Clobenzorex",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Cocaine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "description": "Designated as a Substance of Abuse."
+  },
+  {
+    "name": "Cropropamide",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Crotetamide",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Fencamine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Fenetylline",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Fenfluramine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Fenproporex",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Fonturacetam",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [
+      "4-phenylpiracetam",
+      "carphedon"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Furfenorex",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Hydrafinil",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [
+      "fluorenol"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Lisdexamfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Mefenorex",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Mephentermine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Mesocarb",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Metamfetamine(d-)",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "p-methylamfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Modafinil",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Norfenfluramine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Phendimetrazine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Phentermine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Prenylamine",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Prolintane",
+    "category": "Stimulants",
+    "subcategory": "S6.A Non-Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "2-phenylpropan-1-amine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "ß-methylphenylethylamine",
+      "BMPEA"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "3-Methylhexan-2-amine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "1,2-dimethylpentylamine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "4-Fluoromethylphenidate",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "4-Methylhexan-2-amine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "1,3-dimethylamylamine",
+      "1,3 DMAA",
+      "methylhexaneamine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "4-Methylpentan-2-amine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "1,3-dimethylbutylamine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "5-Methylhexan-2-amine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "1,4-dimethylamylamine",
+      "1,4-dimethylpentylamine",
+      "1,4-DMAA"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Benzfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Cathine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "d-norpseudoephedrine"
+    ],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "thresholdLimits": {
+      "hasThreshold": true,
+      "urineThreshold": {
+        "value": 5,
+        "unit": "μg/mL",
+        "description": "Prohibited when its concentration in urine is greater than 5 micrograms per millilitre."
+      }
+    }
+  },
+  {
+    "name": "Cathinone and its analogues",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "description": "Includes analogues such as mephedrone, methedrone, and α-pyrrolidinovalerophenone."
+  },
+  {
+    "name": "Dimetamfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "dimethylamphetamine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Ephedrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "thresholdLimits": {
+      "hasThreshold": true,
+      "urineThreshold": {
+        "value": 10,
+        "unit": "μg/mL",
+        "description": "Prohibited when its concentration in urine is greater than 10 micrograms per millilitre."
+      }
+    }
+  },
+  {
+    "name": "Epinephrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "adrenaline"
+    ],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "description": "Not prohibited in local administration (e.g. nasal, ophthalmologic) or co-administration with local anaesthetic agents."
+  },
+  {
+    "name": "Etamivan",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Ethylphenidate",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Etilamfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Etilefrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Famprofazone",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Fenbutrazate",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Fencamfamin",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Heptaminol",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Hydroxyamfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "parahydroxyamfetamine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Isometheptene",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Levmetamfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Meclofenoxate",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Methylenedioxymethamphetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Methylephedrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "thresholdLimits": {
+      "hasThreshold": true,
+      "urineThreshold": {
+        "value": 10,
+        "unit": "μg/mL",
+        "description": "Prohibited when its concentration in urine is greater than 10 micrograms per millilitre."
+      }
+    }
+  },
+  {
+    "name": "Methylphenidate",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Midodrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Nikethamide",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Norfenefrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Octodrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "1,5-dimethylhexylamine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Octopamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Oxilofrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "methylsynephrine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Pemoline",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Pentetrazol",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Phenethylamine and its derivatives",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Phenmetrazine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Phenpromethamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Propylhexedrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Pseudoephedrine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "thresholdLimits": {
+      "hasThreshold": true,
+      "urineThreshold": {
+        "value": 150,
+        "unit": "μg/mL",
+        "description": "Prohibited when its concentration in urine is greater than 150 micrograms per millilitre."
+      }
+    }
+  },
+  {
+    "name": "Selegiline",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Sibutramine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Solriamfetol",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Strychnine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Tenamfetamine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [
+      "methylenedioxyamfetamine"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Tesofensine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Tuaminoheptane",
+    "category": "Stimulants",
+    "subcategory": "S6.B Specified Stimulants",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6"
+  },
+  {
+    "name": "Clonidine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Exceptions",
+    "alternativeNames": [],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "description": "Not a Prohibited Substance."
+  },
+  {
+    "name": "guanfacine",
+    "category": "Stimulants",
+    "subcategory": "S6.B Exceptions",
+    "alternativeNames": [],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "description": "Not a Prohibited Substance."
+  },
+  {
+    "name": "Imidazole derivatives (topical)",
+    "category": "Stimulants",
+    "subcategory": "S6.B Exceptions",
+    "alternativeNames": [],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S6",
+    "description": "Derivatives for dermatological, nasal, ophthalmic or otic use are not Prohibited Substances and are included in the 2025 Monitoring Program. Examples: brimonidine, clonazoline, fenoxazoline, indanazoline, naphazoline, oxymetazoline, xylometazoline."
+  },
+  {
+    "name": "Buprenorphine",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Dextromoramide",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Diamorphine",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [
+      "heroin"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7",
+    "description": "Designated as a Substance of Abuse."
+  },
+  {
+    "name": "Fentanyl and its derivatives",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Hydromorphone",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Methadone",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Morphine",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Nicomorphine",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Oxycodone",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Oxymorphone",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Pentazocine",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Pethidine",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Tramadol",
+    "category": "Narcotics",
+    "subcategory": "S7 Narcotics",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S7"
+  },
+  {
+    "name": "Cannabis",
+    "category": "Cannabinoids",
+    "subcategory": "S8 Cannabinoids",
+    "alternativeNames": [
+      "hashish",
+      "marijuana"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S8"
+  },
+  {
+    "name": "Tetrahydrocannabinol",
+    "category": "Cannabinoids",
+    "subcategory": "S8 Cannabinoids",
+    "alternativeNames": [
+      "THC"
+    ],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S8",
+    "description": "Natural and synthetic tetrahydrocannabinols (THCs) are prohibited. THC is designated as a Substance of Abuse."
+  },
+  {
+    "name": "Synthetic cannabinoids",
+    "category": "Cannabinoids",
+    "subcategory": "S8 Cannabinoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Prohibited",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S8",
+    "description": "Synthetic cannabinoids that mimic the effects of THC are prohibited."
+  },
+  {
+    "name": "Cannabidiol",
+    "category": "Cannabinoids",
+    "subcategory": "S8 Exceptions",
+    "alternativeNames": [
+      "CBD"
+    ],
+    "prohibitionStatus": "Monitored",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S8",
+    "description": "Cannabidiol (CBD) is not a Prohibited Substance."
+  },
+  {
+    "name": "Beclometasone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Betamethasone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Budesonide",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Ciclesonide",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Cortisone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Deflazacort",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Dexamethasone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Flunisolide",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Fluocortolone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Fluticasone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Hydrocortisone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Methylprednisolone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Mometasone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Prednisolone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Prednisone",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Triamcinolone acetonide",
+    "category": "Glucocorticoids",
+    "subcategory": "S9 Glucocorticoids",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": false,
+      "particularSports": []
+    },
+    "wadaCode": "S9",
+    "description": "Prohibited In-Competition when administered by any injectable, oral (including oromucosal), or rectal route. Other routes (e.g., inhaled, topical) are not prohibited."
+  },
+  {
+    "name": "Acebutolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Alprenolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Atenolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Betaxolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Bisoprolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Bunolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Carteolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Carvedilol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Celiprolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Esmolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Labetalol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Metipranolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Metoprolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Nadolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Nebivolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Oxprenolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Pindolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Propranolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Sotalol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  },
+  {
+    "name": "Timolol",
+    "category": "Beta Blockers",
+    "subcategory": "P1 Beta-Blockers",
+    "alternativeNames": [],
+    "prohibitionStatus": "Restricted",
+    "prohibitionScope": {
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "particularSports": [
+        "Archery (WA) (In and Out-of-Competition)",
+        "Automobile (FIA) (In-Competition only)",
+        "Billiards (all disciplines) (WCBS) (In-Competition only)",
+        "Darts (WDF) (In-Competition only)",
+        "Golf (IGF) (In-Competition only)",
+        "Mini-Golf (WMF) (In-Competition only)",
+        "Shooting (ISSF, IPC) (In and Out-of-Competition)",
+        "Underwater sports (CMAS) (freediving, spearfishing, target shooting) (In and Out-of-Competition)"
+      ]
+    },
+    "wadaCode": "P1"
+  }
+
+]
