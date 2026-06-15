@@ -1,312 +1,541 @@
-# 🏥 AI Dope Checker
+````md
+# 🏥 AI Dope Checker  
+### AI-Powered WADA Compliance & Medicine Analysis Platform for Athletes
 
-An intelligent medicine analysis application that helps athletes determine if their medications contain substances prohibited by the World Anti-Doping Agency (WADA). Built with Google's Gemini AI for accurate medicine composition analysis.
+An intelligent full-stack medicine analysis platform that helps athletes, coaches, and sports professionals determine whether a medicine or supplement contains substances prohibited by the **World Anti-Doping Agency (WADA)**.
 
-![AI Dope Checker](https://img.shields.io/badge/AI-Dope%20Checker-blue)
-![Status](https://img.shields.io/badge/Status-Ready%20to%20Use-green)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+The platform combines:
+- ⚡ **Google Gemini AI**
+- 🧠 Intelligent ingredient parsing
+- 📚 WADA prohibited substance validation
+- 🔐 Secure backend APIs
+- 📊 Medicine history management
+- 🎨 Modern responsive UI
 
-## 🌟 Features
+to provide instant and understandable anti-doping analysis.
 
-### 🔍 **Intelligent Medicine Analysis**
-- **AI-Powered Analysis**: Uses Google Gemini AI to analyze medicine composition
-- **WADA Compliance Check**: Comprehensive database of prohibited substances
-- **Real-time Results**: Get instant analysis with confidence scoring
-- **Smart Matching**: Advanced algorithms to identify substances by various names
+---
 
-### 🏠 **Personal Medicine Cabinet**
-- **Track Your Medicines**: Save analyzed medicines for future reference
-- **Smart Filtering**: Filter by safety status (Safe/Restricted/Prohibited)
-- **Search Functionality**: Quickly find medicines in your cabinet
-- **Export Data**: Export your medicine history for records
+# 📌 Problem Statement
 
-### 🎨 **Modern User Interface**
-- **Responsive Design**: Works perfectly on desktop, tablet, and mobile
-- **Glassmorphism Style**: Beautiful modern interface with smooth animations
-- **Intuitive Navigation**: Easy-to-use tabbed interface
-- **Visual Status Indicators**: Clear color-coded safety indicators
+Athletes often consume medicines or supplements without knowing whether they contain banned substances.
 
-### ⚡ **Advanced Backend**
-- **RESTful API**: Well-structured API with comprehensive endpoints
-- **Caching System**: Intelligent caching to reduce API costs and improve speed
-- **Rate Limiting**: Built-in protection against abuse
-- **Comprehensive Logging**: Detailed logging for monitoring and debugging
+Many medicines:
+- Have complex ingredient names
+- Use alternative chemical aliases
+- Include hidden stimulants or hormone-based compounds
+- Differ across countries and brands
 
-## 🚀 Quick Start
+Even accidental consumption of a prohibited substance can lead to:
+- Competition bans
+- Career suspension
+- Disqualification
+- Legal and professional consequences
 
-### Prerequisites
-- **Node.js** (v16.0+) - [Download](https://nodejs.org/)
-- **MongoDB** (v4.4+) - [Download](https://www.mongodb.com/try/download/community)
-- **Google Gemini API Key** - [Get API Key](https://makersuite.google.com/app/apikey)
+The goal of this project is to create an intelligent assistant that:
+1. Understands medicine composition
+2. Detects banned substances
+3. Explains risks clearly
+4. Helps athletes make informed decisions
 
-### 🎯 One-Click Setup (Windows)
-```bash
-# Clone or download the project
-# Navigate to the project directory
-# Run the quick start script
-.\start.bat
+---
+
+# 🚀 Key Features
+
+## 🔍 AI-Powered Medicine Analysis
+
+The system uses **Google Gemini AI** to:
+- Analyze medicine names
+- Identify active ingredients
+- Parse compositions intelligently
+- Match ingredients against WADA rules
+- Generate human-readable explanations
+
+### Example
+Input:
+```txt
+Paracetamol + Pseudoephedrine
+````
+
+Output:
+
+```txt
+⚠ Restricted Substance Detected
+
+Pseudoephedrine exceeds WADA threshold limits during competition.
 ```
 
-### 📋 Manual Setup
+---
 
-#### 1. Backend Setup
-```bash
-cd backend
-.\setup.bat
-# Follow the prompts to configure your environment
+## 📚 WADA Compliance Engine
+
+The application includes a structured WADA substance verification system with:
+
+* Prohibited substances
+* Restricted substances
+* Threshold-based compounds
+* Competition-only restrictions
+* Category-wise classification
+
+### Categories Covered
+
+* Anabolic Agents
+* Stimulants
+* Beta-2 Agonists
+* Hormone Modulators
+* Diuretics
+* Peptide Hormones
+* Narcotics
+* Glucocorticoids
+
+---
+
+## 🏠 Personal Medicine Cabinet
+
+Users can:
+
+* Save checked medicines
+* Track medicine history
+* Filter by risk level
+* Search previously analyzed medicines
+* Export data
+
+### Status Indicators
+
+| Status       | Meaning                           |
+| ------------ | --------------------------------- |
+| ✅ Safe       | No prohibited substances detected |
+| ⚠ Restricted | Allowed under limitations         |
+| ❌ Prohibited | Contains banned substances        |
+
+---
+
+## ⚡ Intelligent Backend System
+
+The backend was designed with scalability and maintainability in mind.
+
+### Core Features
+
+* RESTful API architecture
+* JWT Authentication
+* Role-based authorization
+* Request validation
+* Error handling middleware
+* Logging system
+* Rate limiting
+* API caching
+* MongoDB indexing
+
+---
+
+## 🎨 Modern Frontend Experience
+
+The frontend uses:
+
+* Vanilla JavaScript
+* Modern CSS
+* Glassmorphism UI
+* Responsive layouts
+* Smooth animations
+* Dynamic rendering
+
+### UI Highlights
+
+* Mobile-first design
+* Real-time loading states
+* Animated cards
+* Interactive medicine reports
+* Status color indicators
+
+---
+
+# 🧠 How the AI Analysis Works
+
+## Step 1 — User Input
+
+The user enters:
+
+* Medicine name
+* Supplement
+* Composition
+* Optional sports context
+
+Example:
+
+```txt
+Testosterone Injection
 ```
 
-#### 2. Configure Environment Variables
-Edit `backend\.env`:
-```env
-GEMINI_API_KEY=your_actual_gemini_api_key_here
-MONGODB_URI=mongodb://localhost:27017/ai-dope-checker
-PORT=5000
+---
+
+## Step 2 — Gemini AI Processing
+
+Google Gemini AI:
+
+* Identifies active compounds
+* Extracts medical meaning
+* Standardizes ingredient names
+* Detects aliases/synonyms
+
+---
+
+## Step 3 — WADA Verification
+
+The backend:
+
+* Compares compounds with WADA datasets
+* Applies threshold rules
+* Checks competition restrictions
+* Evaluates risk category
+
+---
+
+## Step 4 — Final Analysis Report
+
+The user receives:
+
+* Safety status
+* Detected substances
+* Risk explanation
+* Recommendations
+* Confidence score
+
+---
+
+# 🏗 System Architecture
+
+```txt
+┌──────────────────┐
+│    Frontend      │
+│ HTML/CSS/JS UI   │
+└────────┬─────────┘
+         │ API Calls
+         ▼
+┌──────────────────┐
+│ Express Backend  │
+│ REST API Server  │
+└────────┬─────────┘
+         │
+ ┌───────┴────────┐
+ ▼                ▼
+Gemini AI      MongoDB
+Analysis       Database
 ```
 
-#### 3. Start Services
-```bash
-# Start MongoDB
-net start MongoDB
+---
 
-# Start Backend (from backend directory)
-npm run dev
+# 🛠 Tech Stack
 
-# Open Frontend (from frontend directory)
-# Double-click index.html or use a local server
+## Frontend
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+* Glassmorphism UI
+
+## Backend
+
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+
+## APIs & Tools
+
+* Google Gemini API
+* JWT Authentication
+* Cloudinary
+* Postman
+* Git & GitHub
+
+---
+
+# 📂 Project Structure
+
+```txt
+AI-Dope-Checker/
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+│
+├── backend/
+│   ├── server.js
+│   ├── controllers/
+│   ├── services/
+│   ├── middleware/
+│   ├── routes/
+│   ├── models/
+│   ├── utils/
+│   └── data/
+│
+├── start.bat
+├── SETUP.md
+└── README.md
 ```
 
-### 🧪 Test the Setup
-1. Backend health check: `http://localhost:5000/health`
-2. Frontend application: `http://localhost:3000` or open `index.html`
-3. Try analyzing a medicine like "Aspirin" or "Testosterone"
+---
 
-## 📱 How to Use
+# 🔐 Security Features
 
-### Medicine Checker
-1. **Enter Medicine Name**: Type the name of any medicine or supplement
-2. **Get AI Analysis**: Our AI analyzes the composition against WADA guidelines
-3. **View Results**: See safety status, ingredients, and detailed recommendations
-4. **Add to Cabinet**: Save medicines you've checked for future reference
+## Authentication
 
-### Medicine Cabinet
-1. **View Saved Medicines**: See all your previously analyzed medicines
-2. **Filter by Status**: Show only safe, restricted, or prohibited medicines
-3. **Search**: Quickly find specific medicines in your collection
-4. **Export Data**: Download your medicine history as JSON
+* JWT-based authentication
+* Secure token validation
+* Role-based access
 
-## 🏗 Architecture
+## API Protection
 
-### Frontend (`frontend/`)
-- **Pure JavaScript**: No frameworks, fast and lightweight
-- **Modern CSS**: Glassmorphism design with CSS Grid and Flexbox
-- **Responsive**: Mobile-first design that works on all devices
-- **Local Storage**: Cabinet data stored locally for privacy
+* Rate limiting
+* Input sanitization
+* Request validation
+* Secure middleware
 
-### Backend (`backend/`)
-- **Node.js + Express**: Fast and scalable API server
-- **MongoDB**: Document database for flexible data storage
-- **Gemini Integration**: Advanced AI for medicine analysis
-- **Comprehensive APIs**: RESTful endpoints for all operations
+## Data Privacy
 
-```
-AI Dope checker/
-├── frontend/              # Frontend application
-│   ├── index.html        # Main HTML file
-│   ├── styles.css        # Modern CSS styling
-│   └── script.js         # JavaScript logic
-├── backend/              # Backend API
-│   ├── server.js         # Main server file
-│   ├── models/           # Database models
-│   ├── services/         # Business logic
-│   ├── controllers/      # API controllers
-│   ├── routes/           # API routes
-│   ├── middleware/       # Custom middleware
-│   ├── utils/            # Utility functions
-│   └── data/             # Sample data
-├── start.bat             # Quick start script
-└── SETUP.md              # Detailed setup guide
-```
+* Local medicine cabinet storage
+* No sensitive athlete data stored
+* Environment variable protection
 
-## 🔧 API Documentation
+---
 
-### Medicine Analysis
+# 📡 API Endpoints
+
+## Medicine Analysis
+
 ```http
 POST /api/medicines/check
+```
+
+### Request
+
+```json
 {
   "medicine": "Aspirin",
   "context": {
-    "inCompetition": true,
-    "sport": "Athletics"
+    "sport": "Athletics",
+    "inCompetition": true
   }
 }
 ```
 
-### WADA Database
+---
+
+## WADA Search
+
 ```http
-GET /api/wada/substances?category=Stimulants&limit=20
 GET /api/wada/search?q=testosterone
-POST /api/wada/check-ingredients
 ```
 
-### System
+---
+
+## Health Check
+
 ```http
-GET /health                    # Health check
-GET /api/medicines/analytics   # Usage analytics
+GET /health
 ```
 
-## 🛡 Security & Privacy
+---
 
-- **Local Data Storage**: Medicine cabinet data stays on your device
-- **Secure API Communication**: HTTPS ready for production
-- **Rate Limiting**: Protection against API abuse
-- **Input Validation**: All inputs are validated and sanitized
-- **No Personal Info Required**: No registration or personal data collection
+# ⚙ Installation
 
-## 🔬 Medicine Categories Covered
+## 1. Clone Repository
 
-Our comprehensive WADA database includes:
-
-### ❌ **Prohibited Substances**
-- **Anabolic Agents**: Testosterone, Stanozolol, Nandrolone
-- **Peptide Hormones**: EPO, Growth Hormone, Insulin
-- **Beta-2 Agonists**: Clenbuterol, Salbutamol (above threshold)
-- **Hormone Antagonists**: Aromatase inhibitors, SERMs
-- **Diuretics**: Furosemide, Hydrochlorothiazide
-- **Stimulants**: Amphetamines, Cocaine, Ephedrine
-
-### ⚠️ **Restricted Substances**
-- **Caffeine**: Monitored but not prohibited
-- **Pseudoephedrine**: Threshold limits apply
-- **Salbutamol**: Permitted with restrictions
-- **Glucocorticoids**: Route-specific restrictions
-
-### ✅ **Generally Safe**
-- **Common Pain Relievers**: Aspirin, Ibuprofen, Acetaminophen
-- **Antibiotics**: Most standard antibiotics
-- **Vitamins & Minerals**: Standard supplements
-- **Antacids**: Stomach medications
-
-## 🌐 Supported Use Cases
-
-### 🏃‍♂️ **For Athletes**
-- Check pre-workout supplements
-- Verify prescription medications
-- Monitor supplement stacks
-- Prepare for drug testing
-
-### 🏥 **For Sports Medicine**
-- Patient medication review
-- TUE (Therapeutic Use Exemption) planning
-- Educational purposes
-- Compliance monitoring
-
-### 🏫 **For Coaches & Teams**
-- Team supplement verification
-- Educational workshops
-- Policy development
-- Risk assessment
-
-## 🚨 Important Disclaimers
-
-⚠️ **Medical Disclaimer**: This tool is for educational purposes only and should not replace professional medical advice. Always consult with healthcare providers and sports medicine specialists.
-
-⚠️ **WADA Compliance**: While our database is comprehensive, WADA guidelines can change. Always verify with official WADA sources for competition use.
-
-⚠️ **AI Limitations**: AI analysis may not be 100% accurate. Use results as guidance, not absolute truth.
-
-## 🔄 Updates & Maintenance
-
-### WADA Database Updates
 ```bash
-# Update WADA substances (admin access required)
+git clone <repo-url>
+cd AI-Dope-Checker
+```
+
+---
+
+## 2. Install Dependencies
+
+```bash
 cd backend
-npm run update-wada-db
+npm install
 ```
-
-### Regular Maintenance
-- Monthly WADA list updates
-- Quarterly dependency updates
-- Regular security patches
-- Performance optimizations
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. **Report Issues**: Found a bug or have a suggestion?
-2. **Improve Documentation**: Help make setup easier
-3. **Add Features**: Enhance the user experience
-4. **Update WADA Data**: Help keep the database current
-
-## 📊 Development Stats
-
-- **Frontend**: ~650 lines of modern JavaScript
-- **Backend**: ~2000+ lines of Node.js
-- **API Endpoints**: 15+ RESTful endpoints
-- **Database Models**: 5 comprehensive schemas
-- **WADA Substances**: 500+ substances in database
-- **Test Coverage**: Comprehensive test suite
-
-## 🆘 Troubleshooting
-
-### Common Issues
-
-#### Backend won't start
-```bash
-# Check MongoDB
-mongosh --eval "db.adminCommand('ping')"
-
-# Check environment
-cat backend/.env
-
-# Check logs
-tail -f backend/logs/error.log
-```
-
-#### Frontend can't connect
-- Ensure backend is running on port 5000
-- Check browser console for errors
-- Verify CORS configuration
-
-#### Gemini API errors
-- Verify API key is correct
-- Check API quotas and billing
-- Ensure internet connection
-
-### Getting Help
-1. Check the [SETUP.md](SETUP.md) guide
-2. Review the backend logs
-3. Test individual components
-4. Create an issue with details
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **WADA** for providing comprehensive prohibited substances guidelines
-- **Google Gemini** for advanced AI capabilities
-- **MongoDB** for flexible data storage
-- **Node.js Community** for excellent tooling
-- **Athletes and Sports Medicine Professionals** for feedback and testing
 
 ---
 
-## 🎯 Ready to Start?
+## 3. Configure Environment Variables
 
-```bash
-# Quick start (Windows)
-.\start.bat
+Create `.env`
 
-# Manual setup
-cd backend && .\setup.bat
+```env
+PORT=5000
+MONGODB_URI=mongodb://localhost:27017/ai-dope-checker
+GEMINI_API_KEY=your_api_key
+JWT_SECRET=your_secret
 ```
-
-**Stay clean, stay competitive! 🏆**
 
 ---
 
-*For detailed setup instructions, see [SETUP.md](SETUP.md)*  
-*For API documentation, see [backend/README.md](backend/README.md)*
+## 4. Start Backend
+
+```bash
+npm run dev
+```
+
+---
+
+## 5. Run Frontend
+
+Open:
+
+```txt
+frontend/index.html
+```
+
+---
+
+# 🧪 Example Analysis Results
+
+## Example 1 — Safe Medicine
+
+```txt
+Medicine: Aspirin
+Status: ✅ Safe
+Reason: No prohibited compounds detected
+```
+
+---
+
+## Example 2 — Restricted Medicine
+
+```txt
+Medicine: Pseudoephedrine
+Status: ⚠ Restricted
+Reason: Allowed only below WADA threshold
+```
+
+---
+
+## Example 3 — Prohibited Substance
+
+```txt
+Medicine: Testosterone
+Status: ❌ Prohibited
+Reason: Classified as anabolic agent
+```
+
+---
+
+# 📈 Future Improvements
+
+## Planned Features
+
+* OCR medicine scanning
+* Barcode scanner
+* Mobile application
+* Athlete profiles
+* Competition mode
+* Multi-language support
+* AI explanation improvements
+* Doctor dashboard
+* PDF report generation
+
+---
+
+# 💡 Engineering Highlights
+
+This project demonstrates:
+
+* Full-stack development
+* REST API architecture
+* AI integration
+* Backend scalability
+* Authentication systems
+* Database design
+* Clean UI/UX
+* Production-level project organization
+
+---
+
+# 🏆 Use Cases
+
+## Athletes
+
+* Check supplements before competitions
+* Verify prescriptions
+* Avoid accidental doping
+
+## Coaches
+
+* Team medicine verification
+* Risk assessment
+
+## Sports Doctors
+
+* TUE preparation
+* Medication review
+
+## Sports Organizations
+
+* Educational tool
+* Awareness platform
+
+---
+
+# ⚠ Important Disclaimer
+
+This project is intended for educational and assistance purposes only.
+
+Always:
+
+* Consult sports medicine professionals
+* Verify with official WADA sources
+* Follow medical guidance
+
+The AI output should not be considered official medical or legal advice.
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+You can contribute by:
+
+* Improving UI/UX
+* Enhancing AI prompts
+* Expanding WADA datasets
+* Optimizing backend performance
+* Writing tests
+* Improving documentation
+
+---
+
+# 📜 License
+
+Licensed under the MIT License.
+
+---
+
+# 👨‍💻 Author
+
+## Pradeep Kumar Sinwar
+
+Backend Developer | Competitive Programmer
+
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* C++
+* Problem Solving
+
+---
+
+# ⭐ If You Like This Project
+
+Give this repository a ⭐ and share it with others.
+
+---
+
+# 🏁 Final Goal
+
+Helping athletes compete cleanly and confidently using AI-powered medicine verification.
+
+```
+```
